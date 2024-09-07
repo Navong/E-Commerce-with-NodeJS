@@ -7,3 +7,4 @@
 4. Shopping Cart functionality
 5. Database Integration with MongoDB
 6. Docker Setup for containerization
+
